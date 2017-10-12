@@ -8,5 +8,5 @@ What I learned: <br>
 -Reinfoced previous knowledge of lambdas<br>
 -Method references (really cleans up code and enhances readibility)<br>
 -Implemented and utilized Supplier, Consumer, Function, and Predicate interfaces<br>
--Reduction and Aggregation
--Maintaining function purity
+-Reduction and Aggregation<br>
+-Maintaining function purity<br>
