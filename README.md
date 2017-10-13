@@ -2,7 +2,7 @@
 Practice with Java 8 Streams<br>
 
 Code/Instructor: Craig Dennis<br>
-Course Taken: 10/11/17 - 10/12/17<br>
+Course Taken: 10/11/17 - 10/13/17<br>
 
 What I learned: <br>
 -Reinfoced previous knowledge of lambdas<br>
