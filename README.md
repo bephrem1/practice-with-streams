@@ -10,3 +10,4 @@ What I learned: <br>
 -Implemented and utilized Supplier, Consumer, Function, and Predicate interfaces<br>
 -Reduction and Aggregation<br>
 -Maintaining function purity<br>
+-Composition of functions
